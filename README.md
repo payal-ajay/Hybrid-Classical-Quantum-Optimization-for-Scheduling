@@ -10,9 +10,9 @@ This section contains a suite of classical heuristic algorithms developed to sol
 - **Advanced Hybrid Heuristics:** A multi-factor approach that uses a Job Priority Index (JPI) to account for multiple variables like processing time, energy consumption, and due dates to create a more robust schedule.
 
  Quantum Computing Exploration
-This part of the project serves as an exploration of how quantum computing can be applied to complex optimization problems. It contains foundational code snippets from the Qiskit library that are relevant to developing and evaluating quantum algorithms, such as:
-- **Variational Algorithms:** Core components used to build algorithms like QAOA (Quantum Approximate Optimization Algorithm), which is a leading candidate for solving optimization problems on near-term quantum computers.
-- **Observable Evaluators:** Utilities for calculating expectation values of quantum operators, a fundamental step in many quantum algorithms.
+This part of the project serves as an exploration of how quantum computing can be applied to complex optimization problems. It contains foundational code snippets from the Qiskit library that are relevant to developing and evaluating quantum algorithms, such as
+ Core components used to build algorithms like QAOA (Quantum Approximate Optimization Algorithm), which is a leading candidate for solving optimization problems on near-term quantum computers.
+ 
 
  Technologies Used
 - **Python:** The primary programming language for all algorithms.
